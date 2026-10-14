@@ -20,6 +20,22 @@ Toàn bộ code tự viết bằng Python và discord.py, không dùng framework
 
 ---
 
+## Demo
+
+**1. @mention bot, bot tự tạo thread**
+
+![Tạo thread](docs/images/img_createThread.png)
+
+**2. Bot trả lời ngay trong thread**
+
+![Trong thread](docs/images/img_inThread.png)
+
+**3. Câu hỏi cần tra cứu: bot tìm web và dẫn nguồn**
+
+![Bot trả lời có nguồn](docs/images/img_botReply.png)
+
+---
+
 ## 1. Tính năng
 
 - **Hỏi – đáp theo ngữ cảnh**: mỗi thread là một phiên riêng, giữ vài lượt gần nhất làm ngữ cảnh
