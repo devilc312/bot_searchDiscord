@@ -1,7 +1,6 @@
 """Cắt câu trả lời dài thành nhiều tin <= giới hạn Discord, không làm vỡ code block.
 
-Mượn thiết kế từ truncate_message của Hermes Agent (viết lại, không chép):
-chia ở ký tự xuống dòng/khoảng trắng, nếu điểm chia nằm trong ``` thì đóng fence ở cuối
+Chia ở ký tự xuống dòng/khoảng trắng, nếu điểm chia nằm trong ``` thì đóng fence ở cuối
 tin này và mở lại (cùng ngôn ngữ) ở đầu tin sau; không chia giữa cặp backtick inline.
 """
 from __future__ import annotations

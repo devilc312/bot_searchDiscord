@@ -1,7 +1,6 @@
 """Lưu danh sách thread bot đã tham gia ra file JSON để restart không mất.
 
-Mượn ý từ ThreadParticipationTracker của Hermes: ghi nguyên tử (file tạm + rename),
-giới hạn số lượng, chịu được file hỏng.
+Ghi nguyên tử (file tạm + rename), giới hạn số lượng, chịu được file hỏng.
 """
 from __future__ import annotations
 

@@ -1,6 +1,5 @@
 """Chặn SSRF: bot chỉ được tải URL công khai, không được chạm mạng nội bộ hay metadata cloud.
 
-Ý tưởng mượn từ tools/url_safety.py của Hermes Agent, viết gọn lại.
 Giới hạn đã biết: kiểm tra DNS rồi mới tải nên vẫn có khe hở DNS rebinding.
 """
 from __future__ import annotations
