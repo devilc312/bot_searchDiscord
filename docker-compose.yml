@@ -1,0 +1,13 @@
+services:
+  searchbot:
+    build: .
+    container_name: searchbot
+    restart: unless-stopped
+    env_file: .env
+    read_only: true
+    tmpfs: [/tmp]
+    volumes: [botdata:/data]
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+volumes:
+  botdata:
