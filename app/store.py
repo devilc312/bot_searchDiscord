@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Lưu danh sách thread bot đã tham gia ra file JSON để restart không mất.
 
 Ghi nguyên tử (file tạm + rename), giới hạn số lượng, chịu được file hỏng.

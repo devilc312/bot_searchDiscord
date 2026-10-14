@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Cắt câu trả lời dài thành nhiều tin <= giới hạn Discord, không làm vỡ code block.
 
 Chia ở ký tự xuống dòng/khoảng trắng, nếu điểm chia nằm trong ``` thì đóng fence ở cuối

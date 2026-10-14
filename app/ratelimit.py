@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Giới hạn số câu hỏi mỗi người trong cửa sổ trượt 60 giây."""
 from __future__ import annotations
 

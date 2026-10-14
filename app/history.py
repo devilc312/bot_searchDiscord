@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Lịch sử hội thoại theo thread, dạng trung lập giữa các nhà cung cấp LLM.
 
 Mỗi phần tử: {"role": "user" | "assistant", "text": str}. Chỉ lưu câu hỏi và câu trả lời cuối

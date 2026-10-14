@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 
 </div>
 
@@ -228,7 +229,14 @@ Mỗi câu hỏi tốn **2 đến 5 request** LLM (suy nghĩ, tìm, đọc, tổ
 
 ## Giấy phép
 
-MIT. Xem [LICENSE](LICENSE).
+Copyright (C) 2026 devilc312
+
+Phát hành theo **GNU Affero General Public License v3.0** (AGPL-3.0). Xem [LICENSE](LICENSE).
+
+Tóm tắt (không thay thế văn bản giấy phép):
+- Được dùng, sửa và phân phối lại.
+- Nếu bạn sửa code rồi phân phối, **hoặc chạy bản đã sửa thành dịch vụ cho người khác dùng qua mạng** (ví dụ một bot Discord công khai), bạn phải **công khai mã nguồn bản sửa** theo cùng giấy phép AGPL-3.0 và giữ nguyên dòng ghi bản quyền này.
+- Không được gỡ thông báo bản quyền hay đổi sang giấy phép khác.
 
 <div align="center">
 <sub>Xây dựng bởi <a href="https://github.com/devilc312">@devilc312</a></sub>

@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Chặn SSRF: bot chỉ được tải URL công khai, không được chạm mạng nội bộ hay metadata cloud.
 
 Giới hạn đã biết: kiểm tra DNS rồi mới tải nên vẫn có khe hở DNS rebinding.

@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Gọi LLM (Gemini hoặc API kiểu Anthropic) kèm vòng lặp tool. Cả hai trả lời qua `answer()`."""
 from __future__ import annotations
 

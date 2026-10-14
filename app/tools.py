@@ -1,3 +1,5 @@
+# Copyright (C) 2026 devilc312
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Hai tool cho LLM: tìm web (DuckDuckGo) và đọc nội dung một trang."""
 from __future__ import annotations
 
